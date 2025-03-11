@@ -18,6 +18,7 @@ dependencies = {
     "navigation_menu": [],
     "popover": [],
     "progress": [],
+    "sheet": [],
     "select": [],
     "separator": [],
     "table": [],
